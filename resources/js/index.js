@@ -1,4 +1,4 @@
-let text = "";
+let text = "123123123";
 
 const map = [1, 2, 3].map((item) => {
   return item;
