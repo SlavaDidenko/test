@@ -17,8 +17,11 @@ function main() {
   var x = 5,
     y = 7;
 
+  console.log(x, y);
   return x + y;
 }
 
-add(text, map);
-main();
+console.log(add(), main());
+
+add(text);
+main(map);
